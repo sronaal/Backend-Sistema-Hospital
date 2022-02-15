@@ -2,8 +2,14 @@
 <br>
 
 ## Contexto
-  
+
+- Sistema de agendamiento de citas, en donde un paciente puede registrarse y agendar una cita medica con medico
+- El Medico podra llevar un control de las citas y del tratamiento del paciente (enfermedades y drogas administradas)
+- Tanto como el Paciente y el Medico recibiran una notifacion via correo electronico cuando una cita se agendada
+- 
  
+<br>
+
 ## Caracteristicas
 
 - Autenticacion con jsonwebtoken 
