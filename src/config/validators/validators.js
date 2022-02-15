@@ -33,6 +33,15 @@ class validaciones {
             return true
         }
     }
+
+    validarLoginMedico(datosLogin){
+
+        if(datosLogin.correo == undefined || datosLogin.contraseña == undefined){
+            return false
+        }else{
+            return true
+        }
+    }
 }
 
 module.exports = validaciones
