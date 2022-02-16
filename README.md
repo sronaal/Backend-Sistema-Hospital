@@ -3,9 +3,9 @@
 
 ## Contexto
 
-- Sistema de agendamiento de citas, en donde un paciente puede registrarse y agendar una cita medica con medico
+- Sistema de agendamiento de citas, en donde un paciente puede registrarse y agendar una cita medica con un medico
 - El Medico podra llevar un control de las citas y del tratamiento del paciente (enfermedades y drogas administradas)
-- Tanto como el Paciente y el Medico recibiran una notifacion via correo electronico cuando una cita se agendada
+- Tanto como el Paciente y el Medico recibiran una notifacion via correo electronico cuando una cita sea agendada
 - 
  
 <br>
